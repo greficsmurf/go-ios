@@ -5,8 +5,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/afc"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/afc"
 	log "github.com/sirupsen/logrus"
 )
 

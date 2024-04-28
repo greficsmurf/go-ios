@@ -1,8 +1,8 @@
 package accessibility
 
 import (
-	"github.com/danielpaulus/go-ios/ios"
-	dtx "github.com/danielpaulus/go-ios/ios/dtx_codec"
+	"github.com/greficsmurf/go-ios/ios"
+	dtx "github.com/greficsmurf/go-ios/ios/dtx_codec"
 )
 
 const serviceName string = "com.apple.accessibility.axAuditDaemon.remoteserver"

@@ -3,8 +3,8 @@
 package appservice_test
 
 import (
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/appservice"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/appservice"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"os"

@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/danielpaulus/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios"
 )
 
 func TestListDevices(t *testing.T) {

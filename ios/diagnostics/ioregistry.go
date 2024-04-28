@@ -1,6 +1,6 @@
 package diagnostics
 
-import ios "github.com/danielpaulus/go-ios/ios"
+import ios "github.com/greficsmurf/go-ios/ios"
 
 func ioregentryRequest(key string) []byte {
 	requestMap := map[string]interface{}{

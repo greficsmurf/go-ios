@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/restapi/api"
 	"github.com/gin-gonic/gin"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/restapi/api"
 )
 
 func getRouter() *gin.Engine {

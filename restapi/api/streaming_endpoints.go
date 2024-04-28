@@ -1,10 +1,10 @@
 package api
 
 import (
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/instruments"
-	"github.com/danielpaulus/go-ios/ios/syslog"
 	"github.com/gin-gonic/gin"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/instruments"
+	"github.com/greficsmurf/go-ios/ios/syslog"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"net/http"

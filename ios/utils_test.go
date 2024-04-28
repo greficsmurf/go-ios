@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	ios "github.com/danielpaulus/go-ios/ios"
+	ios "github.com/greficsmurf/go-ios/ios"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"

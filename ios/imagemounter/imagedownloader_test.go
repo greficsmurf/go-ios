@@ -3,7 +3,7 @@ package imagemounter_test
 import (
 	"testing"
 
-	"github.com/danielpaulus/go-ios/ios/imagemounter"
+	"github.com/greficsmurf/go-ios/ios/imagemounter"
 	"github.com/stretchr/testify/assert"
 )
 

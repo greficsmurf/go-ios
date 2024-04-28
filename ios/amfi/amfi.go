@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/imagemounter"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/imagemounter"
 	log "github.com/sirupsen/logrus"
 )
 

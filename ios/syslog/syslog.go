@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/danielpaulus/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios"
 )
 
 const (

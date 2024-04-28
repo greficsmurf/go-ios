@@ -3,10 +3,10 @@ package api
 import (
 	"net/http"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/installationproxy"
-	"github.com/danielpaulus/go-ios/ios/instruments"
 	"github.com/gin-gonic/gin"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/installationproxy"
+	"github.com/greficsmurf/go-ios/ios/instruments"
 )
 
 // List apps on a device

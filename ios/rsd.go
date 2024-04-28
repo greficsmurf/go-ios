@@ -6,7 +6,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/danielpaulus/go-ios/ios/xpc"
+	"github.com/greficsmurf/go-ios/ios/xpc"
 	log "github.com/sirupsen/logrus"
 )
 

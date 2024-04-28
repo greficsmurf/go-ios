@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/danielpaulus/go-ios/ios/afc"
+	"github.com/greficsmurf/go-ios/ios/afc"
 
-	"github.com/danielpaulus/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios"
 
 	"howett.net/plist"
 )

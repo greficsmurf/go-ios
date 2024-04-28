@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/danielpaulus/go-ios/ios/nskeyedarchiver"
+	"github.com/greficsmurf/go-ios/ios/nskeyedarchiver"
 	"github.com/stretchr/testify/assert"
 )
 

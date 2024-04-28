@@ -17,7 +17,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/danielpaulus/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios"
 
 	"github.com/quic-go/quic-go"
 	"github.com/sirupsen/logrus"

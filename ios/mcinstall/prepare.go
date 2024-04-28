@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/afc"
-	"github.com/danielpaulus/go-ios/ios/mobileactivation"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/afc"
+	"github.com/greficsmurf/go-ios/ios/mobileactivation"
 	log "github.com/sirupsen/logrus"
 )
 

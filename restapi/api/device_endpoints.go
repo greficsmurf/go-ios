@@ -3,19 +3,19 @@ package api
 import (
 	"bytes"
 	"fmt"
-	"github.com/danielpaulus/go-ios/ios/imagemounter"
-	"github.com/danielpaulus/go-ios/ios/mobileactivation"
+	"github.com/greficsmurf/go-ios/ios/imagemounter"
+	"github.com/greficsmurf/go-ios/ios/mobileactivation"
 	"io"
 	"net/http"
 	"os"
 	"sync"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/instruments"
-	"github.com/danielpaulus/go-ios/ios/mcinstall"
-	"github.com/danielpaulus/go-ios/ios/screenshotr"
-	"github.com/danielpaulus/go-ios/ios/simlocation"
 	"github.com/gin-gonic/gin"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/instruments"
+	"github.com/greficsmurf/go-ios/ios/mcinstall"
+	"github.com/greficsmurf/go-ios/ios/screenshotr"
+	"github.com/greficsmurf/go-ios/ios/simlocation"
 	log "github.com/sirupsen/logrus"
 )
 

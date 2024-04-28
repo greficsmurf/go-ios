@@ -5,9 +5,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/danielpaulus/go-ios/ios/http"
+	"github.com/greficsmurf/go-ios/ios/http"
 
-	"github.com/danielpaulus/go-ios/ios/xpc"
+	"github.com/greficsmurf/go-ios/ios/xpc"
 )
 
 type connectMessage struct {

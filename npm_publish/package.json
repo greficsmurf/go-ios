@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielpaulus/go-ios.git"
+    "url": "git+https://github.com/greficsmurf/go-ios.git"
   },
   "author": "Daniel Paulus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielpaulus/go-ios/issues"
+    "url": "https://github.com/greficsmurf/go-ios/issues"
   },
-  "homepage": "https://github.com/danielpaulus/go-ios#readme",
+  "homepage": "https://github.com/greficsmurf/go-ios#readme",
   "bin": {
     "go-ios": "./index.js"
   },

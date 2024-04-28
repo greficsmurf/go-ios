@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/danielpaulus/go-ios/ios/nskeyedarchiver"
-	archiver "github.com/danielpaulus/go-ios/ios/nskeyedarchiver"
 	"github.com/google/uuid"
+	"github.com/greficsmurf/go-ios/ios/nskeyedarchiver"
+	archiver "github.com/greficsmurf/go-ios/ios/nskeyedarchiver"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

@@ -8,7 +8,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/danielpaulus/go-ios/ios/nskeyedarchiver"
+	"github.com/greficsmurf/go-ios/ios/nskeyedarchiver"
 )
 
 // ReadMessage uses the reader to fully read a Message from it in blocking mode.

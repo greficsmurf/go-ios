@@ -12,8 +12,8 @@ import (
 
 	"io"
 
-	"github.com/danielpaulus/go-ios/ios/opack"
-	"github.com/danielpaulus/go-ios/ios/xpc"
+	"github.com/greficsmurf/go-ios/ios/opack"
+	"github.com/greficsmurf/go-ios/ios/xpc"
 
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/crypto/chacha20poly1305"

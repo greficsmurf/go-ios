@@ -10,10 +10,10 @@ import (
 	"path"
 	"syscall"
 
-	"github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/coredevice"
-	"github.com/danielpaulus/go-ios/ios/xpc"
 	"github.com/google/uuid"
+	"github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/coredevice"
+	"github.com/greficsmurf/go-ios/ios/xpc"
 	"howett.net/plist"
 )
 

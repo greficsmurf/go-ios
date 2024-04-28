@@ -1,9 +1,9 @@
-module github.com/danielpaulus/go-ios/restapi
+module github.com/greficsmurf/go-ios/restapi
 
 go 1.21
 
 require (
-	github.com/danielpaulus/go-ios v1.0.91
+	github.com/greficsmurf/go-ios v1.0.121
 	github.com/gin-gonic/gin v1.8.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/swaggo/files v0.0.0-20220728132757-551d4a08d97a
@@ -52,4 +52,4 @@ require (
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 )
 
-replace github.com/danielpaulus/go-ios => ../
+replace github.com/greficsmurf/go-ios => ../

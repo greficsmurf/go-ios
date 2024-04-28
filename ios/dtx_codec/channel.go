@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/danielpaulus/go-ios/ios/nskeyedarchiver"
+	"github.com/greficsmurf/go-ios/ios/nskeyedarchiver"
 	log "github.com/sirupsen/logrus"
 )
 

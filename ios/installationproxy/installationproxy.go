@@ -6,7 +6,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	ios "github.com/danielpaulus/go-ios/ios"
+	ios "github.com/greficsmurf/go-ios/ios"
 	"howett.net/plist"
 )
 

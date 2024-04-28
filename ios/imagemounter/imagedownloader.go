@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver"
-	"github.com/danielpaulus/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios"
 	log "github.com/sirupsen/logrus"
 )
 

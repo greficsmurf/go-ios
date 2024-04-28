@@ -6,15 +6,15 @@ import (
 	"path"
 	"strings"
 
-	"github.com/danielpaulus/go-ios/ios/appservice"
+	"github.com/greficsmurf/go-ios/ios/appservice"
 
-	"github.com/danielpaulus/go-ios/ios/house_arrest"
+	"github.com/greficsmurf/go-ios/ios/house_arrest"
 
-	"github.com/danielpaulus/go-ios/ios"
-	dtx "github.com/danielpaulus/go-ios/ios/dtx_codec"
-	"github.com/danielpaulus/go-ios/ios/installationproxy"
-	"github.com/danielpaulus/go-ios/ios/nskeyedarchiver"
 	"github.com/google/uuid"
+	"github.com/greficsmurf/go-ios/ios"
+	dtx "github.com/greficsmurf/go-ios/ios/dtx_codec"
+	"github.com/greficsmurf/go-ios/ios/installationproxy"
+	"github.com/greficsmurf/go-ios/ios/nskeyedarchiver"
 	log "github.com/sirupsen/logrus"
 )
 

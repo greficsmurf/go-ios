@@ -6,8 +6,8 @@ package accessibility_test
 import (
 	"testing"
 
-	ios "github.com/danielpaulus/go-ios/ios"
-	"github.com/danielpaulus/go-ios/ios/accessibility"
+	ios "github.com/greficsmurf/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios/accessibility"
 )
 
 func TestIT(t *testing.T) {

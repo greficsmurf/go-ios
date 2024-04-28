@@ -1,7 +1,7 @@
 # Contributing
 Hey there, I am really excited that you want to contribute something to go-ios :-) 
 
-[Business Email Validator](https://github.com/danielpaulus/go-ios) is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. 
+[Business Email Validator](https://github.com/greficsmurf/go-ios) is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. 
 This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
 
 ## Getting Started

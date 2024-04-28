@@ -1,4 +1,4 @@
-module github.com/danielpaulus/go-ios
+module github.com/greficsmurf/go-ios
 
 go 1.21
 

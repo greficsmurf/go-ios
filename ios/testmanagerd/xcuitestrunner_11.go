@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/danielpaulus/go-ios/ios"
-	dtx "github.com/danielpaulus/go-ios/ios/dtx_codec"
-	"github.com/danielpaulus/go-ios/ios/instruments"
+	"github.com/greficsmurf/go-ios/ios"
+	dtx "github.com/greficsmurf/go-ios/ios/dtx_codec"
+	"github.com/greficsmurf/go-ios/ios/instruments"
 	log "github.com/sirupsen/logrus"
 )
 

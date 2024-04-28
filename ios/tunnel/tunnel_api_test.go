@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/danielpaulus/go-ios/ios"
+	"github.com/greficsmurf/go-ios/ios"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

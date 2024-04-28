@@ -3,8 +3,8 @@ package api
 import (
 	"net/http"
 
-	"github.com/danielpaulus/go-ios/ios"
 	"github.com/gin-gonic/gin"
+	"github.com/greficsmurf/go-ios/ios"
 )
 
 // List get device list of currently connected devices.
